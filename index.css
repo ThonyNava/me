@@ -143,9 +143,13 @@ a svg:hover #twitter,
 a svg:hover #instagram,
 a svg:hover #instagram_2,
 a svg:hover #instagram_3,
+a svg:hover #github,
+a svg:hover #codepen,
+a svg:hover #linkedin,
 a svg:hover #reddit,
 a svg:hover #facebook,
-a svg:hover #medium{ 
+a svg:hover #medium,
+a svg:hover #spotify{ 
 fill: #A7A9AC;
 fill-opacity: 1;
 }
