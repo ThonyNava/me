@@ -36,9 +36,8 @@ body{
 }
 
 .container_img{
-    display: flex;
-    width: fit-content;
-    display: flex;
+    width: 100%;
+    display: -webkit-box;
     align-items: flex-end;
     justify-content: center;
 }
@@ -173,6 +172,13 @@ a svg #medium{
     justify-content: center;
 }
 
+.container_link{
+    margin-left: -100%;
+    width: inherit;
+    display: flex;
+    justify-content: center;    
+}
+
 .container_icon{
     width: fit-content;
     height: fit-content;
@@ -183,9 +189,9 @@ a svg #medium{
 
 .user_icon{
     width: 68vh;
-    max-width: 68vw;
+    max-width: 55vw;
     height: 68vh;
-    max-height: 68vw;
+    max-height: 55vw;
 }
 
 #thony_path{
@@ -193,25 +199,17 @@ a svg #medium{
     fill-opacity: 1;
 }
 
-.container_icons_general{
-    margin: 0px;
-    display: flex;
-    justify-content: center;
-    align-items: flex-end;
-}
-
-.container_icons_links{
-    position: absolute;
-    display: flex;
-    width: fit-content
-}
-
 .link_box{
-    width: 68vh;
-    max-width: 68vw;
-    height: 68vh;
-    max-height: 68vw;
+    width: 50%;
+    height: fit-content;
     display: flex;
+}
+
+.link{
+    width: 68vh;
+    max-width: 55vw;
+    height: 68vh;
+    max-height: 55vw;
 }
 
 /*--------------------------------------
