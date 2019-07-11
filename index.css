@@ -16,7 +16,7 @@ body{
     border: 0px;
     padding: 0px;
     background-color: #00508B;
-
+    overflow: hidden;
 }
 
 .site-container{
