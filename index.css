@@ -138,35 +138,42 @@ ul, ol, li{
     max-height: 5vw;
 }
 
-a svg:hover #youtube,
 a svg:hover #twitter,
+a svg:hover #youtube,
 a svg:hover #instagram,
 a svg:hover #instagram_2,
 a svg:hover #instagram_3,
-a svg:hover #github,
-a svg:hover #codepen,
-a svg:hover #linkedin,
-a svg:hover #reddit,
 a svg:hover #facebook,
-a svg:hover #medium,
-a svg:hover #spotify{ 
+a svg:hover #whatsapp,
+a svg:hover #linkedin,
+a svg:hover #github,
+a svg:hover #platzi,
+a svg:hover #codepen,
+a svg:hover #behance,
+a svg:hover #pinterest,
+a svg:hover #soundcould,
+a svg:hover #reddit,
+a svg:hover #medium{ 
 fill: #A7A9AC;
 fill-opacity: 1;
 }
 
-a svg #youtube,
 a svg #twitter,
+a svg #youtube,
 a svg #instagram,
 a svg #instagram_2,
 a svg #instagram_3,
-a svg #reddit,
 a svg #facebook,
-a svg #medium,
-a svg #pinterest,
 a svg #whatsapp,
+a svg #linkedin,
+a svg #github,
 a svg #platzi,
+a svg #codepen,
 a svg #behance,
-a svg #soundcloud{ 
+a svg #pinterest,
+a svg #soundcould,
+a svg #reddit,
+a svg #medium{ 
     transition: 200ms;
     transition-timing-function: ease-in-out;
     -webkit-transition: 200ms;
