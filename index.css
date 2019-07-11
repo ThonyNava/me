@@ -151,7 +151,8 @@ a svg:hover #platzi,
 a svg:hover #codepen,
 a svg:hover #behance,
 a svg:hover #pinterest,
-a svg:hover #soundcould,
+a svg:hover #spotify,
+a svg:hover #soundcloud,
 a svg:hover #reddit,
 a svg:hover #medium{ 
 fill: #A7A9AC;
@@ -171,7 +172,8 @@ a svg #platzi,
 a svg #codepen,
 a svg #behance,
 a svg #pinterest,
-a svg #soundcould,
+a svg #spotify,
+a svg #soundcloud,
 a svg #reddit,
 a svg #medium{ 
     transition: 200ms;
