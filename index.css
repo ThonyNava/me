@@ -362,7 +362,7 @@ a svg #soundcloud{
 
     .section_info{
         width: 100vw;
-        height: 65vh;
+        height: 70vh;
         justify-content: center;
         align-items: flex-end;
     }
@@ -379,19 +379,19 @@ a svg #soundcloud{
 
     #isologo {
         height: 16vh;
-        max-height: 16vw;
+        max-height: 14vw;
     }
 
     .logo {
         height: 20vh;
-        max-height: 20vw;
+        max-height: 19vw;
     }
 
     .text_box{
         width: 75vh;
         max-width: 75vw;
         height: 34vh;
-        max-height: 34vw;
+        max-height: 31vw;
         justify-content: center;
     }
 
@@ -432,7 +432,7 @@ a svg #soundcloud{
 
     .section_img{
         width: 100vw;
-        height: 35vh;
+        height: 30vh;
     }
 
     .container_img{
@@ -446,13 +446,13 @@ a svg #soundcloud{
     }
 
     .user_icon{
-    width: 40vh;
-    height: 40vh;
+    width: 30vh;
+    height: 30vh;
     }
 
     .link_box{
         width: 40vh;
-        height: 40vh;
+        height: 30vh;
         display: flex;
     }
 }
