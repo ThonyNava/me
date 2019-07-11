@@ -161,7 +161,12 @@ a svg #instagram_2,
 a svg #instagram_3,
 a svg #reddit,
 a svg #facebook,
-a svg #medium{ 
+a svg #medium,
+a svg #pinterest,
+a svg #whatsapp,
+a svg #platzi,
+a svg #behance,
+a svg #soundcloud{ 
     transition: 200ms;
     transition-timing-function: ease-in-out;
     -webkit-transition: 200ms;
