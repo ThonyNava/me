@@ -15,7 +15,7 @@ body{
     margin: 0%;
     border: 0px;
     padding: 0px;
-    background-color: #00508B;
+    background-color: #273040;
     overflow: hidden;
 }
 
@@ -103,7 +103,7 @@ body{
     letter-spacing: .02em;
     font-style: normal;
     text-decoration: none;
-    color: #ffffff;
+    color: rgb(0, 220, 255);
 }
 
 .sm_icons{
@@ -213,7 +213,7 @@ a svg #medium{
 }
 
 #thony_path{
-    fill: rgb(255, 255, 255);
+    fill: rgb(0, 220, 255);
     fill-opacity: 1;
 }
 
